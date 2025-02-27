@@ -18,21 +18,19 @@ Este proyecto permite a los usuarios ingresar nombres de amigos en una lista y r
 
 ## 🛠️ Tecnologías Utilizadas
 
-HTML
-
-CSS
-
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## 🎮 Cómo Usar
 
-Ingresa el nombre de un amigo en el campo de texto.
+- Ingresa el nombre de un amigo en el campo de texto.
 
-Haz clic en el botón "Añadir" para agregarlo a la lista.
+- Haz clic en el botón "Añadir" para agregarlo a la lista.
 
-Repite los pasos anteriores para agregar más nombres.
+- Repite los pasos anteriores para agregar más nombres.
 
-Una vez completada la lista, presiona "Sortear Amigo" para seleccionar un nombre al azar.
+- Una vez completada la lista, presiona "Sortear Amigo" para seleccionar un nombre al azar.
 
 ¡Disfruta del sorteo y diviértete con tus amigos! 🎊
 
